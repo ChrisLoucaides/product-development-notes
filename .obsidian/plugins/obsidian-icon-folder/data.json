@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗄",
+      "🖼",
       "📁"
     ],
     "recentlyUsedIconsSize": 5,
@@ -28,5 +30,7 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "Notes": "📁"
+  "Notes": "📁",
+  "Images": "🖼",
+  "Notes/Week 1 - Intro and Innovation Management.md": "🗄"
 }
